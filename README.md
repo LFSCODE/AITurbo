@@ -1,7 +1,7 @@
 # AITurbo
 Contains some experimental data
 
-# Meaning of the data in the table
+# Meaning of the data in the dataset.xlsx
 
 In the dataset.xlsx, there are a total of 8692 rows of data, and each row represents a submitted job.
 
