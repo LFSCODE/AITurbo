@@ -9,7 +9,7 @@ The meaning of each column is:
 
 - Job type: There are a total of 27 types of distributed jobs, in which the model name used is unknown.
 
-- Running time: The time from the start to the end of the job in the cluster
+- Running time(second): The time from the start to the end of the job in the cluster
 
 - Ps: The number of parameter servers used by the job
 
@@ -23,7 +23,7 @@ The meaning of each column is:
 
 - GPU: The number of GPUs used in the job
 
-- Memory: The number of memory used in the job 
+- Memory(GB): The number of memory used in the job 
 
 - CPU: The number of CPUs used in the job 
 
