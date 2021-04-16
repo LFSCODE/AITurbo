@@ -1,7 +1,7 @@
-# AITurbo
+# DDL training jobs
 Contains some experimental data
 
-# Meaning of the data in the dataset.xlsx
+# Description of DDL training jobs in the dataset.xlsx
 
 In the dataset.xlsx, there are a total of 8692 rows of data, and each row represents a submitted job.
 
@@ -11,7 +11,7 @@ The meaning of each column is:
 
 - Running time(second): The time from the start to the end of the job in the cluster
 
-- Ps: The number of parameter servers used by the job
+- Ps: The number of parameter servers used in the job
 
 - Worker: The number of workers used in the job
 
@@ -37,7 +37,7 @@ The meaning of each column is:
 
 - Resubmit: Whether the job is submitted repeatedly, 0 means the job is submitted repeatedly, and 1 is the first submission
 
-- Predictability: Whether the job is predictable, 0 is predictable job, 1 is unpredictable job
+- Predictability: Whether the job is predictable, 0 means it is a predictable job, 1 means it is an unpredictable job
 
 
 # Distribution characteristics of jobs in the dataset.xlsx
