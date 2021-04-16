@@ -44,14 +44,17 @@ The meaning of each column is:
 
 - Job type and job number
 
-Type| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
-Number|339|456|466|227|370|404|327|303|404|372|338|604|401|384|273|512|330|247|501|150|291|42|138|215|46|37|525
+#Type| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 
+#---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
+#Number|339|456|466|227|370|404|327|303|404|372|338|604|401|384|273|512|330|247|501|150|291|42|138|215|46|37|525
 
 - Running time distribution
 
-![image](https://github.com/LFSCODE/AITurbo/blob/main/figure/runtime.png)
+
+ <img src="https://github.com/LFSCODE/AITurbo/blob/main/figure/runtime.png" width = "400" height = "300" alt="图片名称" align=center />
+
 
 - Ratio of predictable and unpredictable jobs
 
-![image](https://github.com/LFSCODE/AITurbo/blob/main/figure/pre_unpre.png)
+ <img src="https://github.com/LFSCODE/AITurbo/blob/main/figure/pre_unpre.png" width = "350" height = "300" alt="图片名称" align=center />
+
