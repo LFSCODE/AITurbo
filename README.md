@@ -49,4 +49,7 @@ Type| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 
 Number|339|456|466|227|370|404|327|303|404|372|338|604|401|384|273|512|330|247|501|150|291|42|138|215|46|37|525
 
 - Running time distribution
-https://github.com/LFSCODE/AITurbo/blob/main/figure/pre_unpre.png
+
+<font size=24>23 </font>
+
+![image](https://github.com/LFSCODE/AITurbo/blob/main/figure/pre_unpre.png)
