@@ -50,6 +50,8 @@ Number|339|456|466|227|370|404|327|303|404|372|338|604|401|384|273|512|330|247|5
 
 - Running time distribution
 
-<font size=24>23 </font>
+![image](https://github.com/LFSCODE/AITurbo/blob/main/figure/runtime.png)
+
+- Ratio of predictable and unpredictable jobs
 
 ![image](https://github.com/LFSCODE/AITurbo/blob/main/figure/pre_unpre.png)
