@@ -40,7 +40,7 @@ The meaning of each column is:
 - Predictability: Whether the job is predictable, 0 means it is a predictable job, 1 means it is an unpredictable job
 
 
-# Distribution characteristics of jobs in the dataset.xlsx
+# Distribution characteristics of DDL training jobs in the dataset.xlsx
 <!--
 - Job type and job number
 Type| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 
