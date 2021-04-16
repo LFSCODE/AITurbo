@@ -15,7 +15,7 @@ The meaning of each column is:
 
 - Worker: The number of workers used in the job
 
-- Epoch: The number of epochs for job training
+- Epoch: The number of epochs used in job training
 
 - Accuracy: The accuracy of the final output of the job
 
@@ -27,7 +27,7 @@ The meaning of each column is:
 
 - CPU: The number of CPUs used in the job 
 
-- Batch Size: The amount of data processed by a job in a batch, one of the hyperparameters of the job
+- Batch Size: The amount of data processed by a job in a batch
 
 - Learning rate: One of the hyperparameters of job
 
