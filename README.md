@@ -38,3 +38,7 @@ The meaning of each column is:
 - Resubmit: Whether the job is submitted repeatedly, 0 means the job is submitted repeatedly, and 1 is the first submission
 
 - Predictability: Whether the job is predictable, 0 is predictable job, 1 is unpredictable job
+
+
+# Distribution characteristics of jobs in the dataset.xlsx
+
