@@ -35,7 +35,7 @@ The meaning of each column is:
 
 - Throughput: The amount of data processed by the job per unit time
 
-- Resubmit: Whether the job is submitted repeatedly, 0 means the job is submitted repeatedly, and 1 is the first submission
+- Resubmit: Whether the job is submitted repeatedly, 0 means the job is submitted repeatedly, and 1 means the first submission of the job
 
 - Predictability: Whether the job is predictable, 0 means it is a predictable job, 1 means it is an unpredictable job
 
